@@ -1,0 +1,25 @@
+p {
+	font-size: 60px;
+	color: black;
+}
+
+img {
+	width: 1000px;
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: blue;
+    color: black;
+}
